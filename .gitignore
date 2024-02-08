@@ -1,2 +1,4 @@
+\#auto_saved_files\#
 kibot-backups/
-fp-info-cache/
+fp-info-cache
+*.lck
